@@ -1,0 +1,29 @@
+
+.imagem_carrossel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.fonte_titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor_especial {
+    color: darkred;    
+}
+
+.posicao_imagem-card {
+    object-fit: cover;
+    height: 200px;
+}
+
+.botao {
+    background-color: darkred;
+    color: white;
+}
+.card {
+    border: solid 1px darkred;
+    max-width: 18rem;
+}
+
